@@ -1,12 +1,12 @@
 # Arduino SSD1306 Game of Life
 
-Game of Life running on an Arduino and SSD1306 LCD display.
+Game of Life running on an Arduino and SSD1306 OLED display.
 
 ## Hardware
 
-A regular Arduino Uno, although I suspect many GPIO devices would work here. As well as the SSD1306 LCD display.
+A regular Arduino Uno, although I suspect many GPIO devices would work here. As well as the SSD1306 OLED display.
 
-You can find these all over. I personally used Alibaba with the following items:
+You can find these all over. I personally used AliExpress with the following items:
 
 - Arduino Uno kit: https://www.aliexpress.com/item/32543752387.html
 - SSD1306: https://www.aliexpress.com/item/32896971385.html
