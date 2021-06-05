@@ -15,18 +15,21 @@ You can find these all over. I personally used AliExpress with the following ite
 
 This is on MacOS, so your milage may vary. I have added the versions to the installations to ensure compatibility.
 
-Install Go: 
+Install Go:
+
 ```
 brew install go@1.15
 ```
 
 Install TinyGo:
+
 ```
 brew tap tinygo-org/tools
-brew install tinygo@0.16.0
+brew install tinygo@0.18.0
 ```
 
 Install avr flashing tools:
+
 ```
 brew tap osx-cross/avr
 brew install avr-gcc@9.3.0
