@@ -1,2 +1,2 @@
 run: 
-	tinygo flash -target arduino ./main.go
+	tinygo flash -target arduino ./cmd/main.go
